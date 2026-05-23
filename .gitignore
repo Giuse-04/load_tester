@@ -1,0 +1,15 @@
+# Binaries
+*.exe
+/load-tester
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project output
+salida.log
+
