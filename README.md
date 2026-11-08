@@ -1,6 +1,6 @@
 # Load Tester
 
-A simple and configurable HTTP load testing tool written in Go.
+Simple and configurable HTTP load testing tool written in Go.
 
 ## Features
 
